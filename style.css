@@ -12,14 +12,18 @@ h1 {
   font-size: 60px;
   text-align: center;
 }
-
+.count-el {
+  font-size: 50px;
+}
 p, li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
 }
 
-
+.button {
+  
+}
 html {
   background-color: #00539F;
 }
@@ -46,5 +50,4 @@ img {
 .column {
   width: 100%;
 }
-
 
